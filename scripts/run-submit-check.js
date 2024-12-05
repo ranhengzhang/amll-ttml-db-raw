@@ -413,7 +413,7 @@ async function main() {
 			);
 		}
 	}
-	console.log("检查完毕");
+	console.log("检查完毕?");
 }
 
 console.log('msg', REPO_OWNER, REPO_NAME);
