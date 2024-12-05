@@ -6,9 +6,6 @@ ScriptType: v4.00+
 Timer: 100.0000
 
 [Aegisub Project Garbage]
-Audio File: ../../../Users/LEGION/Downloads/UVRS/1_Jony J - 顽家_(Vocals).flac
-Scroll Position: 69
-Active Line: 74
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
