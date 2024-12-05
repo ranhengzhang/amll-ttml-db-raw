@@ -22,7 +22,6 @@ async function main() {
 		state: "open",
 		labels: "歌词提交/补正",
 	});
-	console.log('msg', REPO_OWNER, REPO_NAME);
 	for (const issue of openingIssues.data) {
 		try {
 			console.log("正在检查议题", issue.title, "(", issue.id, ")");
@@ -416,4 +415,6 @@ async function main() {
 	}
 	console.log("检查完毕");
 }
+
+console.log('msg', REPO_OWNER, REPO_NAME);
 main().catch(console.error);
