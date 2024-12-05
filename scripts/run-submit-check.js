@@ -22,7 +22,6 @@ async function main() {
 		state: "open",
 		labels: "歌词提交/补正",
 	});
-	console.log(openingIssues.data);
 	for (const issue of openingIssues.data) {
 		try {
 			console.log("正在检查议题", issue.title, "(", issue.id, ")");
