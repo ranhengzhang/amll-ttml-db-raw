@@ -2,7 +2,7 @@ name: 同步 Github 到 Gitee
 
 on:
   workflow_run:
-    workflows: [rebuild-folder]
+    workflows: [重建歌词文件夹]
     types:
       - completed
 
