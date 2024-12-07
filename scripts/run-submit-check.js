@@ -9,7 +9,7 @@ import { writeFile } from "fs/promises";
 import { resolve } from "path";
 import { checkLyric } from "./lyric-checker.js";
 import { HAS_CHECKED_MARK, REPO_NAME, REPO_OWNER, addFileToGit, checkoutBranch, commit, createBranch, deleteBranch, getMetadata, githubToken, parseBody, push } from "./utils.js";
-import formatXml from 'xml-formatter';
+import { minify } from 'xml-minifier';
 
 const octokit = new Octokit({
 	auth: githubToken,
@@ -178,13 +178,13 @@ async function main() {
 				}
 				console.log("正在下载 TTML 歌词文件", lyricURL.trim());
 				try {
-					const lyric = formatXml.minify(await fetch(lyricURL).then((v) => {
+					const lyric = minify(await fetch(lyricURL).then((v) => {
 						if (v.ok) {
 							return v.text();
 						} else {
 							throw new Error(v.statusText);
 						}
-					}), {whiteSpaceAtEndOfSelfclosingTag: false, forceSelfClosingEmptyTag: false});
+					}));
 					try {
 						const parsedLyric = parseLyric(lyric);
 						const errors = [];

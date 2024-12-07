@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "xml-minifier": "^1.0.1"
+  }
+}

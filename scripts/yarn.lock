@@ -901,7 +901,6 @@ __metadata:
     prettier: ^3.0.0
     typescript: ^5.1.6
     uid: ^2.0.2
-    xml-formatter: ^3.6.3
   languageName: unknown
   linkType: soft
 
