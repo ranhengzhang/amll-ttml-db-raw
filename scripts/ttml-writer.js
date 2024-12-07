@@ -134,14 +134,10 @@ function exportTTMLTextInner(
 				let beginTime = Infinity;
 				let endTime = 0;
 				for (const word of line.words) {
-					if (word.word.trim().length === 0) {
-						lineP.appendChild(doc.createTextNode(word.word));
-					} else {
-						const span = createWordElement(word);
-						lineP.appendChild(span);
-						beginTime = Math.min(beginTime, word.startTime);
-						endTime = Math.max(endTime, word.endTime);
-					}
+          const span = createWordElement(word);
+          lineP.appendChild(span);
+          beginTime = Math.min(beginTime, word.startTime);
+          endTime = Math.max(endTime, word.endTime);
 				}
 				lineP.setAttribute("begin", msToTimestamp(line.startTime));
 				lineP.setAttribute("end", msToTimestamp(line.endTime));
@@ -164,19 +160,15 @@ function exportTTMLTextInner(
 					let endTime = 0;
 					for (let wordIndex = 0; wordIndex < bgLine.words.length; wordIndex++) {
 						const word = bgLine.words[wordIndex];
-						if (word.word.trim().length === 0) {
-							bgLineSpan.appendChild(doc.createTextNode(word.word));
-						} else {
-							const span = createWordElement(word);
-							if (wordIndex === 0) {
-								span.prepend(doc.createTextNode("("));
-							} else if (wordIndex === bgLine.words.length - 1) {
-								span.appendChild(doc.createTextNode(")"));
-							}
-							bgLineSpan.appendChild(span);
-							beginTime = Math.min(beginTime, word.startTime);
-							endTime = Math.max(endTime, word.endTime);
-						}
+            const span = createWordElement(word);
+            if (wordIndex === 0) {
+              span.prepend(doc.createTextNode("("));
+            } else if (wordIndex === bgLine.words.length - 1) {
+              span.appendChild(doc.createTextNode(")"));
+            }
+            bgLineSpan.appendChild(span);
+            beginTime = Math.min(beginTime, word.startTime);
+            endTime = Math.max(endTime, word.endTime);
 					}
 					bgLineSpan.setAttribute("begin", msToTimestamp(beginTime));
 					bgLineSpan.setAttribute("end", msToTimestamp(endTime));
