@@ -43,8 +43,8 @@ Dialogue: 0,0:01:23.63,0:01:26.54,orig,,0,0,0,,{\kf60}恋{\kf20}人{\kf38}怀{\k
 Dialogue: 0,0:01:26.81,0:01:29.78,orig,,0,0,0,,{\kf71}听{\kf15}见{\kf43}胸{\kf37}膛{\kf43}心{\kf42}在{\kf46}跳
 Dialogue: 0,0:01:30.12,0:01:32.92,orig,,0,0,0,,{\kf41}偷{\kf24}偷{\kf54}的{\kf41} {\kf39}在{\kf26}思{\kf55}念
 Dialogue: 0,0:01:33.28,0:01:38.69,orig,,0,0,0,,{\kf60}那{\kf25}是{\kf47}我{\kf30}们{\kf48}相{\kf48}爱{\kf70}的{\kf45}{\kf38}记{\kf130}号
-Dialogue: 0,0:01:50.36,0:01:56.14,orig,,0,0,0,,{\kf43}La{\kf0}-{\kf37}la{\kf0}-{\kf41}la{\kf0}-{\kf46}la{\kf0}-{\kf37}la{\kf0}-{\kf33}la{\kf0}-{\kf57}la{\kf36} {\kf34}La{\kf0}-{\kf40}la{\kf0}-{\kf36}la{\kf0}-{\kf41}la{\kf0}-{\kf97}la
-Dialogue: 0,0:01:56.86,0:02:01.43,orig,,0,0,0,,{\kf36}La{\kf0}-{\kf39}la{\kf0}-{\kf44}la{\kf0}-{\kf45}la{\kf0}-{\kf94}la{\kf29} {\kf18}La{\kf0}-{\kf24}la{\kf0}-{\kf128}la
+Dialogue: 0,0:01:50.36,0:01:56.14,orig,,0,0,0,,{\kf43}La-{\kf37}la-{\kf41}la-{\kf46}la-{\kf37}la-{\kf33}la-{\kf57}la,{\kf36} {\kf34}La-{\kf40}la-{\kf36}la-{\kf41}la-{\kf97}la
+Dialogue: 0,0:01:56.86,0:02:01.43,orig,,0,0,0,,{\kf36}La-{\kf39}la-{\kf44}la-{\kf45}la-{\kf94}la,{\kf29} {\kf18}La-{\kf24}la-{\kf128}la
 Dialogue: 0,0:02:02.54,0:02:05.49,orig,,0,0,0,,{\kf57}远{\kf27}方{\kf30}钟{\kf47}声{\kf30}再{\kf51}响{\kf53}起
 Dialogue: 0,0:02:05.80,0:02:08.67,orig,,0,0,0,,{\kf57}蛙{\kf21}鸣{\kf40}唱{\kf21}起{\kf22}了{\kf33}摇{\kf47}篮{\kf46}曲
 Dialogue: 0,0:02:09.10,0:02:11.94,orig,,0,0,0,,{\kf32}白{\kf32}沙{\kf72}滩{\kf24} {\kf36}月{\kf19}弯{\kf69}弯
@@ -65,10 +65,10 @@ Dialogue: 0,0:02:54.45,0:02:57.42,orig,,0,0,0,,{\kf59}恋{\kf18}人{\kf44}怀{\k
 Dialogue: 0,0:02:57.68,0:03:00.58,orig,,0,0,0,,{\kf66}听{\kf17}见{\kf42}胸{\kf35}膛{\kf44}心{\kf41}在{\kf45}跳
 Dialogue: 0,0:03:00.92,0:03:03.81,orig,,0,0,0,,{\kf44}偷{\kf22}偷{\kf54}的{\kf41} {\kf39}在{\kf29}思{\kf60}念
 Dialogue: 0,0:03:04.17,0:03:09.51,orig,,0,0,0,,{\kf52}那{\kf33}是{\kf38}我{\kf33}们{\kf52}相{\kf43}爱{\kf66}的{\kf48}{\kf48}味{\kf121}道
-Dialogue: 0,0:03:11.48,0:03:17.30,orig,,0,0,0,,{\kf44}La{\kf0}-{\kf34}la{\kf0}-{\kf37}la{\kf0}-{\kf41}la{\kf0}-{\kf46}la{\kf0}-{\kf35}la{\kf0}-{\kf52}la{\kf37} {\kf40}La{\kf0}-{\kf34}la{\kf0}-{\kf41}la{\kf0}-{\kf39}la{\kf0}-{\kf102}la
-Dialogue: 0,0:03:17.97,0:03:21.24,orig,,0,0,0,,{\kf42}La{\kf0}-{\kf35}la{\kf0}-{\kf37}la{\kf0}-{\kf42}la{\kf0}-{\kf171}la
-Dialogue: 0,0:03:22.82,0:03:28.60,orig,,0,0,0,,{\kf36}La{\kf0}-{\kf39}la{\kf0}-{\kf41}la{\kf0}-{\kf46}la{\kf0}-{\kf32}la{\kf0}-{\kf42}la{\kf0}-{\kf56}la{\kf34} {\kf35}La{\kf0}-{\kf40}la{\kf0}-{\kf38}la{\kf0}-{\kf39}la{\kf0}-{\kf100}la
-Dialogue: 0,0:03:29.32,0:03:33.61,orig,,0,0,0,,{\kf38}La{\kf0}-{\kf36}la{\kf0}-{\kf43}la{\kf0}-{\kf44}la{\kf0}-{\kf80}la{\kf38} {\kf24}La{\kf0}-{\kf24}la{\kf0}-{\kf102}la
+Dialogue: 0,0:03:11.48,0:03:17.30,orig,,0,0,0,,{\kf44}La-{\kf34}la-{\kf37}la-{\kf41}la-{\kf46}la-{\kf35}la-{\kf52}la,{\kf37} {\kf40}La-{\kf34}la-{\kf41}la-{\kf39}la-{\kf102}la
+Dialogue: 0,0:03:17.97,0:03:21.24,orig,,0,0,0,,{\kf42}La-{\kf35}la-{\kf37}la-{\kf42}la-{\kf171}la
+Dialogue: 0,0:03:22.82,0:03:28.60,orig,,0,0,0,,{\kf36}La-{\kf39}la-{\kf41}la-{\kf46}la-{\kf32}la-{\kf42}la-{\kf56}la,{\kf34} {\kf35}La-{\kf40}la-{\kf38}la-{\kf39}la-{\kf100}la
+Dialogue: 0,0:03:29.32,0:03:33.61,orig,,0,0,0,,{\kf38}La-{\kf36}la-{\kf43}la-{\kf44}la-{\kf80}la,{\kf38} {\kf24}La-{\kf24}la-{\kf102}la
 Dialogue: 0,0:03:34.98,0:03:37.89,orig,,0,0,0,,{\kf57}恋{\kf19}人{\kf48}手{\kf40}中{\kf33}樱{\kf46}花{\kf48}草
 Dialogue: 0,0:03:38.17,0:03:41.19,orig,,0,0,0,,{\kf61}春{\kf25}彩{\kf40}满{\kf47}布{\kf40}的{\kf28}微{\kf61}笑
 Dialogue: 0,0:03:41.44,0:03:44.33,orig,,0,0,0,,{\kf41}种{\kf26}下{\kf60}了{\kf42} {\kf34}一{\kf30}朵{\kf56}朵
