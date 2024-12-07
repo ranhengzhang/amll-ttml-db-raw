@@ -1,6 +1,6 @@
 <tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata"
-    xmlns:itunes="http://music.apple.com/lyric-ttml-internal"
-    xmlns:amll="http://www.example.com/ns/amll">
+    xmlns:amll="http://www.example.com/ns/amll"
+    xmlns:itunes="http://music.apple.com/lyric-ttml-internal">
     <head>
         <metadata xmlns="">
             <ttm:agent type="person" xml:id="v1"/>
@@ -206,7 +206,7 @@
                 <span begin="01:52.400" end="01:52.730">la-</span>
                 <span begin="01:52.730" end="01:53.300">la,</span>
                 <span begin="01:53.300" end="01:53.660"> </span>
-                <span begin="01:53.660" end="01:54.000">La-</span>
+                <span begin="01:53.660" end="01:54.000">la-</span>
                 <span begin="01:54.000" end="01:54.400">la-</span>
                 <span begin="01:54.400" end="01:54.760">la-</span>
                 <span begin="01:54.760" end="01:55.170">la-</span>
@@ -219,7 +219,7 @@
                 <span begin="01:58.050" end="01:58.500">la-</span>
                 <span begin="01:58.500" end="01:59.440">la,</span>
                 <span begin="01:59.440" end="01:59.730"> </span>
-                <span begin="01:59.730" end="01:59.910">La-</span>
+                <span begin="01:59.730" end="01:59.910">la-</span>
                 <span begin="01:59.910" end="02:00.150">la-</span>
                 <span begin="02:00.150" end="02:01.430">la</span>
             </p>
@@ -412,7 +412,7 @@
                 <span begin="03:13.500" end="03:13.850">la-</span>
                 <span begin="03:13.850" end="03:14.370">la,</span>
                 <span begin="03:14.370" end="03:14.740"> </span>
-                <span begin="03:14.740" end="03:15.140">La-</span>
+                <span begin="03:14.740" end="03:15.140">la-</span>
                 <span begin="03:15.140" end="03:15.480">la-</span>
                 <span begin="03:15.480" end="03:15.890">la-</span>
                 <span begin="03:15.890" end="03:16.280">la-</span>
@@ -434,7 +434,7 @@
                 <span begin="03:24.760" end="03:25.180">la-</span>
                 <span begin="03:25.180" end="03:25.740">la,</span>
                 <span begin="03:25.740" end="03:26.080"> </span>
-                <span begin="03:26.080" end="03:26.430">La-</span>
+                <span begin="03:26.080" end="03:26.430">la-</span>
                 <span begin="03:26.430" end="03:26.830">la-</span>
                 <span begin="03:26.830" end="03:27.210">la-</span>
                 <span begin="03:27.210" end="03:27.600">la-</span>
@@ -447,7 +447,7 @@
                 <span begin="03:30.490" end="03:30.930">la-</span>
                 <span begin="03:30.930" end="03:31.730">la,</span>
                 <span begin="03:31.730" end="03:32.110"> </span>
-                <span begin="03:32.110" end="03:32.350">La-</span>
+                <span begin="03:32.110" end="03:32.350">la-</span>
                 <span begin="03:32.350" end="03:32.590">la-</span>
                 <span begin="03:32.590" end="03:33.610">la</span>
             </p>
