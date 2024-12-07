@@ -1077,15 +1077,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"xml-formatter@npm:^3.6.3":
-  version: 3.6.3
-  resolution: "xml-formatter@npm:3.6.3"
-  dependencies:
-    xml-parser-xo: ^4.1.2
-  checksum: e4c6927d30de9e82f69ea1752d93b9e31e5eb308c2261e039272a04cdf1120a03cf01aea5cbb01c4197a1dee9dc67b04bf91a24acd6a1abe52b4fcb7ac843086
-  languageName: node
-  linkType: hard
-
 "xml-name-validator@npm:^4.0.0":
   version: 4.0.0
   resolution: "xml-name-validator@npm:4.0.0"
