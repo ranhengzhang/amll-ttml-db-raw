@@ -20,10 +20,10 @@
             <p begin="00:10.160" end="00:12.610" ttm:agent="v1" itunes:key="L1">
                 <span begin="00:10.160" end="00:10.320">Di</span>
                 <span begin="00:10.320" end="00:10.760">zzy</span>
-                <span begin="00:10.760" end="00:10.760">,</span>
+                <span begin="00:10.760" end="00:10.763">,</span>
                 <span begin="00:10.760" end="00:10.930">di</span>
                 <span begin="00:10.930" end="00:11.360">zzy</span>
-                <span begin="00:11.360" end="00:11.360">,</span>
+                <span begin="00:11.360" end="00:11.363">,</span>
                 <span begin="00:11.360" end="00:11.590">can </span>
                 <span begin="00:11.590" end="00:11.860">you </span>
                 <span begin="00:11.860" end="00:12.090">fi</span>
@@ -80,7 +80,7 @@
                 <span begin="00:21.700" end="00:21.930">till </span>
                 <span begin="00:21.930" end="00:22.100">he</span>
                 <span begin="00:22.100" end="00:22.510">re</span>
-                <span begin="00:22.510" end="00:22.510">?</span>
+                <span begin="00:22.510" end="00:22.513">?</span>
                 <span ttm:role="x-translation" xml:lang="zh-CN">噢，你还在这？</span>
             </p>
             <p begin="00:22.790" end="00:25.730" ttm:agent="v1" itunes:key="L6">
@@ -90,7 +90,7 @@
                 <span begin="00:23.330" end="00:23.450">a </span>
                 <span begin="00:23.450" end="00:23.700">ban</span>
                 <span begin="00:23.700" end="00:24.000">ger</span>
-                <span begin="00:24.000" end="00:24.000">? </span>
+                <span begin="00:24.000" end="00:24.003">? </span>
                 <span begin="00:24.000" end="00:24.370">Wai</span>
                 <span begin="00:24.370" end="00:24.450">t a</span>
                 <span begin="00:24.450" end="00:24.810">no</span>
@@ -182,14 +182,14 @@
                 <span begin="00:55.550" end="00:55.780">Brea</span>
                 <span begin="00:55.780" end="00:55.850">k </span>
                 <span begin="00:55.850" end="00:56.130">me</span>
-                <span begin="00:56.130" end="00:56.130">, </span>
+                <span begin="00:56.130" end="00:56.133">, </span>
                 <span begin="00:56.130" end="00:56.400">ta</span>
                 <span begin="00:56.400" end="00:56.440">ke </span>
                 <span begin="00:56.440" end="00:56.840">me</span>
-                <span begin="00:56.840" end="00:56.840">, </span>
+                <span begin="00:56.840" end="00:56.843">, </span>
                 <span begin="00:56.840" end="00:57.080">make </span>
                 <span begin="00:57.080" end="00:57.490">me</span>
-                <span begin="00:57.490" end="00:57.490">, </span>
+                <span begin="00:57.490" end="00:57.493">, </span>
                 <span begin="00:57.490" end="00:57.680">hate </span>
                 <span begin="00:57.680" end="00:58.050">me</span>
                 <span ttm:role="x-translation" xml:lang="zh-CN">击垮我、带走我、成就我、憎恨我</span>
@@ -301,7 +301,7 @@
                 <span begin="01:24.250" end="01:24.520">te</span>
                 <span begin="01:24.520" end="01:25.250">ar</span>
                 <span begin="01:25.250" end="01:25.570">s</span>
-                <span begin="01:25.570" end="01:25.570">?</span>
+                <span begin="01:25.570" end="01:25.573">?</span>
                 <span ttm:role="x-translation" xml:lang="zh-CN">我的眼泪是否惹你无奈？</span>
             </p>
             <p begin="01:26.280" end="01:31.100" ttm:agent="v1" itunes:key="L23">
