@@ -4,6 +4,7 @@
     <head>
         <metadata>
             <ttm:agent type="person" xml:id="v1"/>
+            <ttm:agent type="other" xml:id="v2"/>
             <amll:meta key="ncmMusicId" value="2034281093"/>
             <amll:meta key="isrc" value="HKG732331182"/>
             <amll:meta key="musicName" value="怪街奇谈（feat. 司Asu）"/>
