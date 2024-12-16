@@ -1,13 +1,13 @@
 <tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata"
-    xmlns:amll="http://www.example.com/ns/amll"
-    xmlns:itunes="http://music.apple.com/lyric-ttml-internal">
+    xmlns:itunes="http://music.apple.com/lyric-ttml-internal"
+    xmlns:amll="http://www.example.com/ns/amll">
     <head>
         <metadata xmlns="">
             <ttm:agent type="person" xml:id="v1"/>
             <amll:meta key="artists" value="Sweety"/>
             <amll:meta key="album" value="花言乔语"/>
             <amll:meta key="musicName" value="樱花草"/>
-            <amll:meta key="qqMusicId" value="S6ONMp0B07lp"/>
+            <amll:meta key="qqMusicId" value="481456"/>
             <amll:meta key="ncmMusicId" value="376971"/>
             <amll:meta key="appleMusicId" value="1528931821"/>
             <amll:meta key="spotifyId" value="6ddyizbXKAF46BDLahptk6"/>
@@ -17,7 +17,7 @@
         </metadata>
     </head>
     <body dur="04:29.810">
-        <div begin="00:31.720" end="04:29.810">
+        <div xmlns="" begin="00:31.720" end="04:29.810">
             <p begin="00:31.720" end="00:34.630" ttm:agent="v1" itunes:key="L1">
                 <span begin="00:31.720" end="00:32.320">晚</span>
                 <span begin="00:32.320" end="00:32.550">风</span>
@@ -547,7 +547,6 @@
                 <span begin="04:07.400" end="04:07.820">种</span>
                 <span begin="04:07.820" end="04:08.070">下</span>
                 <span begin="04:08.070" end="04:08.640">了</span>
-                <span begin="04:08.640" end="04:09.100"> </span>
                 <span begin="04:09.100" end="04:09.450">一</span>
                 <span begin="04:09.450" end="04:09.700">朵</span>
                 <span begin="04:09.700" end="04:10.310">朵</span>
@@ -567,23 +566,22 @@
                 <span begin="04:14.700" end="04:15.150">怀</span>
                 <span begin="04:15.150" end="04:15.570">中</span>
                 <span begin="04:15.570" end="04:15.920">樱</span>
-                <span begin="04:15.920" end="04:16.340">花</span>
-                <span begin="04:16.340" end="04:16.790">草</span>
+                <span begin="04:15.920" end="04:16.339">花</span>
+                <span begin="04:16.339" end="04:16.790">草</span>
             </p>
             <p begin="04:17.200" end="04:20.040" ttm:agent="v1" itunes:key="L60">
-                <span begin="04:17.200" end="04:17.770">听</span>
-                <span begin="04:17.770" end="04:17.910">见</span>
+                <span begin="04:17.200" end="04:17.769">听</span>
+                <span begin="04:17.769" end="04:17.910">见</span>
                 <span begin="04:17.910" end="04:18.380">胸</span>
                 <span begin="04:18.380" end="04:18.700">膛</span>
                 <span begin="04:18.700" end="04:19.120">心</span>
-                <span begin="04:19.120" end="04:19.580">在</span>
-                <span begin="04:19.580" end="04:20.040">跳</span>
+                <span begin="04:19.120" end="04:19.579">在</span>
+                <span begin="04:19.579" end="04:20.040">跳</span>
             </p>
             <p begin="04:20.410" end="04:23.240" ttm:agent="v1" itunes:key="L61">
                 <span begin="04:20.410" end="04:20.810">偷</span>
-                <span begin="04:20.810" end="04:21.080">偷</span>
-                <span begin="04:21.080" end="04:21.580">的</span>
-                <span begin="04:21.580" end="04:21.970"> </span>
+                <span begin="04:20.810" end="04:21.079">偷</span>
+                <span begin="04:21.079" end="04:21.579">的</span>
                 <span begin="04:21.970" end="04:22.380">在</span>
                 <span begin="04:22.380" end="04:22.730">思</span>
                 <span begin="04:22.730" end="04:23.240">念</span>
