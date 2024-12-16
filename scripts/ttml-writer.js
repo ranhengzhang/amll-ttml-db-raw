@@ -134,7 +134,7 @@ function exportTTMLTextInner(
 				let beginTime = Infinity;
 				let endTime = 0;
 				for (const word of line.words) {
-					if (word.word.length === 0) {
+					if (word.word.trim().length === 0) {
 						lineP.appendChild(doc.createTextNode(word.word));
 					} else {
 						const span = createWordElement(word);
@@ -164,7 +164,7 @@ function exportTTMLTextInner(
 					let endTime = 0;
 					for (let wordIndex = 0; wordIndex < bgLine.words.length; wordIndex++) {
 						const word = bgLine.words[wordIndex];
-						if (word.word.length === 0) {
+						if (word.word.trim().length === 0) {
 							bgLineSpan.appendChild(doc.createTextNode(word.word));
 						} else {
 							const span = createWordElement(word);

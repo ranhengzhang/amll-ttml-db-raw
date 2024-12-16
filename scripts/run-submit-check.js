@@ -274,8 +274,8 @@ async function main() {
 						}
 						const regeneratedLyric = await exportTTMLText(parsedLyric);
 						const lyricFormatted = await prettier.format(lyric, {
-              parser: "html",
-            });
+							parser: "html",
+						});
 						await confirmIssue(lyric, regeneratedLyric);
 						console.log(
 							"议题",
