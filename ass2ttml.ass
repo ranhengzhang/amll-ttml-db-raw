@@ -19,6 +19,7 @@ Style: ts,HarmonyOS Sans SC Medium,94,&H00D9CA8B,&H00A77F44,&H00FFFFFF,&H0000000
 Style: default,Sarasa Gothic SC,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 
 [Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,orig,,0,0,0,code once,person = true;
 Comment: 0,0:00:00.00,0:00:00.00,orig,,0,0,0,code once,author = '68000793';
 Comment: 0,0:00:00.00,0:00:00.00,orig,,0,0,0,code once,artists = {}; album = ''; track='';
