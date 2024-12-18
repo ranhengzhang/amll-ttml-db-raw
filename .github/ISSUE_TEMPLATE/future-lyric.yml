@@ -1,7 +1,7 @@
-name: 歌词请愿
-description: 我想要一个歌曲能有 TTML 歌词！
-title: "[歌词请愿] "
-labels: ["歌词请愿"]
+name: 歌词计划
+description: 我将要上传一首(些)歌曲的 TTML 歌词！
+title: "[歌词计划] "
+labels: ["歌词计划"]
 body:
   - type: markdown
     attributes:
