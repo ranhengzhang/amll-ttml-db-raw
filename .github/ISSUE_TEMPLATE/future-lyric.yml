@@ -11,27 +11,57 @@ body:
     id: song-name
     attributes:
       label: 歌曲名称
-      description: 推荐使用 歌手 - 歌曲 格式，方便仓库管理员确认你的歌曲是否存在
-      placeholder: YOASOBI - 群青
+      description: 推荐使用 歌手 - 歌曲 格式
     validations:
       required: true
   - type: input
-    id: song-id
+    id: ncmMusicId
     attributes:
-      label: 音乐对应的音乐平台和音乐 ID
-      description: |
-        提供 ID 能帮助歌词制作者更好地找到你需要请愿歌词的歌曲
-        如果歌曲存在其他变体（例如伴奏），可以以英文逗号分隔多个 ID
-      placeholder: "1472480890"
+      label: 歌词所匹配的网易云音乐 ID
+    validations:
+      required: false
+  - type: input
+    id: qqMusicId
+    attributes:
+      label: 歌词所匹配的 QQ 音乐 ID
+    validations:
+      required: false
+  - type: input
+    id: spotifyId
+    attributes:
+      label: 歌词所匹配的 Spotify 音乐 ID
+    validations:
+      required: false
+  - type: input
+    id: appleMusicId
+    attributes:
+      label: 歌词所匹配的 Apple Music 音乐 ID
+    validations:
+      required: false
+  - type: input
+    id: isrc
+    attributes:
+      label: 歌词所匹配的 ISRC 编码
     validations:
       required: true
-  - type: checkboxes
-    id: others
+  - type: input
+    id: artists
     attributes:
-      label: 其他备注
-      description: 如果可以确认其他信息的话也会对歌词制作有所帮助哦
-      options:
-        - label: 这个歌曲在 Apple Music 上有逐词歌词
+      label: 歌词所匹配的歌手名
+    validations:
+      required: true
+  - type: input
+    id: album
+    attributes:
+      label: 歌词所匹配的专辑名
+    validations:
+      required: true
+  - type: input
+    id: musicName
+    attributes:
+      label: 歌词所匹配的歌曲名
+    validations:
+      required: true
   - type: textarea
     id: comment
     attributes:
