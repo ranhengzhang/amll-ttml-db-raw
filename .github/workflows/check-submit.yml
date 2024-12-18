@@ -3,6 +3,7 @@ on:
   workflow_dispatch:
   issues:
     types: [opened]
+    labels: ["歌词计划"]
 concurrency:
   group: check-submit
   cancel-in-progress: true
