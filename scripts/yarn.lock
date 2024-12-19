@@ -1097,3 +1097,8 @@ __metadata:
   checksum: 343617202af32df2a15a3be36a5a8c0c8545208f3d3dfbc6bb7c3e3b7e8c6f8e7485432e4f3b88da3031a6e20afa7c711eded32ddfb122896ac5d914e75848d5
   languageName: node
   linkType: hard
+
+"xml-minifier@^1.0.1":
+  version "1.0.1"
+  resolved "https://registry.npmmirror.com/xml-minifier/-/xml-minifier-1.0.1.tgz#953d966a344b68cdd44732e6fbca65f64e42dc5b"
+  integrity sha512-/4QaUoa76lH8mCcpYHcCWr6o8i8MQsWXC1YOmyhudo4quD6nDcwVLuMELMP5sDJLK6Zte98481zcMZN/8hKmSg==
