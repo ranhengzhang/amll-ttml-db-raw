@@ -901,6 +901,7 @@ __metadata:
     prettier: ^3.0.0
     typescript: ^5.1.6
     uid: ^2.0.2
+    xml-minifier: ^1.0.1
   languageName: unknown
   linkType: soft
 
@@ -1077,6 +1078,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"xml-minifier@npm:^1.0.1":
+  version: 1.0.1
+  resolution: "xml-minifier@npm:1.0.1"
+  checksum: 646c012dc5f6329848230bcb85ecd20d7931c28e029ad01997deffd36edaada19d9e0c72e6029eda0b4373610b467abbe772ed14c45ff6870242aec48a4db667
+  languageName: node
+  linkType: hard
+
 "xml-name-validator@npm:^4.0.0":
   version: 4.0.0
   resolution: "xml-name-validator@npm:4.0.0"
@@ -1097,8 +1105,3 @@ __metadata:
   checksum: 343617202af32df2a15a3be36a5a8c0c8545208f3d3dfbc6bb7c3e3b7e8c6f8e7485432e4f3b88da3031a6e20afa7c711eded32ddfb122896ac5d914e75848d5
   languageName: node
   linkType: hard
-
-"xml-minifier@^1.0.1":
-  version "1.0.1"
-  resolved "https://registry.npmmirror.com/xml-minifier/-/xml-minifier-1.0.1.tgz#953d966a344b68cdd44732e6fbca65f64e42dc5b"
-  integrity sha512-/4QaUoa76lH8mCcpYHcCWr6o8i8MQsWXC1YOmyhudo4quD6nDcwVLuMELMP5sDJLK6Zte98481zcMZN/8hKmSg==
